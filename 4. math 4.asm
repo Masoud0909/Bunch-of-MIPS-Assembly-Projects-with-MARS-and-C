@@ -20,8 +20,8 @@
 __start:		# execution starts here  */
 
 
-#/* Any changes above this line will be discarded by
-# mipsmark. Put your answer between dashed lines.
+#/* Any changes above this line will be discarded 
+# . Put your answer between dashed lines.
 #-------------- start cut -----------------------
 
 	lw $t0, num1	# loads an integer from memory
@@ -52,8 +52,8 @@ __start:		# execution starts here  */
 	syscall 		# aun revoir ...
 
 #/*--------------  end cut  -----------------------
-# Any changes below this line will be discarded by
-# mipsmark. Put your answer between dashed lines.
+# Any changes below this line will be discarded 
+# . Put your answer between dashed lines.
 
 #################################################
 #                                               #
